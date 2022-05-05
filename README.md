@@ -6,6 +6,5 @@ Playbook detailing our in-house application development style and guidelines.
 
 * [JavaScript](frontend/javascript.md)
 * [CSS](frontend/css.md)
-* [CSS](frontend/css.md)
 * [Git](practices/git.md)
 
